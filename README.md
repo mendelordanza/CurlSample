@@ -1,4 +1,4 @@
-# curl-logging-interceptor
+# curl-logger-interceptor
 Clean HTTP request curl logs
 
 # How to use
