@@ -1,6 +1,6 @@
-package com.ralphordanza.curlsample.api
+package com.ralphordanza.curlloggerinterceptor.api
 
-import com.ralphordanza.curlsample.Post
+import com.ralphordanza.curlloggerinterceptor.Post
 import retrofit2.Call
 import retrofit2.http.*
 

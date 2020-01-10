@@ -1,2 +1,2 @@
 include ':app', ':curllogginginterceptor'
-rootProject.name='CurlSample'
+rootProject.name='curlloggerinterceptor'

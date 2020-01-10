@@ -1,4 +1,4 @@
-package com.ralphordanza.curlsample
+package com.ralphordanza.curlloggerinterceptor
 
 data class Post(
     var userId: Int,

@@ -1,4 +1,4 @@
-package com.ralphordanza.curllogginginterceptor
+package com.ralphordanza.curlloggerinterceptor
 
 import org.junit.Test
 

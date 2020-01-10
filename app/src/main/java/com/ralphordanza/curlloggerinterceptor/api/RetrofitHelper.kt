@@ -1,6 +1,6 @@
-package com.ralphordanza.curlsample.api
+package com.ralphordanza.curlloggerinterceptor.api
 
-import com.ralphordanza.curllogginginterceptor.CurlLoggerInterceptor
+import com.ralphordanza.curlloggerinterceptor.CurlLoggerInterceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

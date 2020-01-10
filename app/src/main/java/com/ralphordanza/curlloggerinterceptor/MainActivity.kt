@@ -1,9 +1,9 @@
-package com.ralphordanza.curlsample
+package com.ralphordanza.curlloggerinterceptor
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.ralphordanza.curlsample.api.RetrofitHelper
+import com.ralphordanza.curlloggerinterceptor.api.RetrofitHelper
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
