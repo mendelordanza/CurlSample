@@ -1,5 +1,5 @@
 # curl-logger-interceptor
-Clean HTTP request curl logs
+A clean HTTP request curl logs for Retrofit and OkHttp
 
 # How to use
 1. Add jitpack.io to your project's root build.gradle
