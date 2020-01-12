@@ -34,4 +34,6 @@ val okHttpClient = OkHttpClient.Builder()
             .build()
 ```
 
+Just type 'curl' on your logcat and you will see the results
+
 # That's it!
